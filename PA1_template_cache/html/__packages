@@ -1,11 +1,6 @@
 base
-methods
-datasets
-utils
-grDevices
-graphics
-stats
 dplyr
 lubridate
 knitr
 ggplot2
+lattice

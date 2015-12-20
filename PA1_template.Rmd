@@ -1,11 +1,13 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
-
+# Peer Assessment 1
 ### Reproducible Research / Herminio Vazquez
+```{r echo=FALSE, include=FALSE}
+library(dplyr)
+library(lubridate)
+library(knitr)
+library(ggplot2)
+```
+***
+
 ```{r echo=FALSE, include=FALSE}
 library(dplyr)
 library(lubridate)
